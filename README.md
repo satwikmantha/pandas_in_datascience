@@ -27,17 +27,3 @@ The README file for the pandas library provides an overview of its features, ins
   ```bash
   pip install pandas
   ```
-
-**Documentation:**
-- The full documentation is available at [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/).
-
-If you want to read the full README file, you can find it on [GitHub](https://github.com/pandas-dev/pandas/blob/main/README.md).
-
-Is there anything specific you would like to know about pandas? Maybe a particular feature or how to use it in a project?
-
-Source: Conversation with Copilot, 31/8/2024
-(1) pandas/README.md at main · pandas-dev/pandas · GitHub. https://github.com/pandas-dev/pandas/blob/main/README.md.
-(2) pandas documentation — pandas 2.2.2 documentation. https://pandas.pydata.org/pandas-docs/stable/.
-(3) pandas/README.md at main · pandas-dev/pandas · GitHub. https://bing.com/search?q=pandas+library+readme+file.
-(4) How to Read a Text File with Pandas (Including Examples). https://statisticalpoint.com/pandas-read-text-file/.
-(5) undefined. https://github.com/pandas-dev/pandas.
